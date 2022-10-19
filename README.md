@@ -46,6 +46,3 @@
 Open the document API in your browser
    ```sh
     http://0.0.0.0:8000/swagger/
-    ```
-
-    
